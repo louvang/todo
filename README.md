@@ -2,7 +2,7 @@
 
 A todo list web app with 3 editable categories for simpler todo-ing.
 
-<p align="center"><a href="https://louvang.github.io/blackpearlboba/" target="_blank"><img src="https://raw.githubusercontent.com/louvang/todo/main/dist/img/preview.png" alt="Todo Preview" width="750px" /></a></p>
+<p align="center"><a href="https://louvang.github.io/todo/" target="_blank"><img src="https://raw.githubusercontent.com/louvang/todo/main/dist/img/preview.png" alt="Todo Preview" width="750px" /></a></p>
 
 ## How To
 
